@@ -1,0 +1,31 @@
+{
+  "name": "reveal-a11y",
+  "version": "1.0.0",
+  "description": "Reveal.js plugin for better slide accessibility",
+  "main": "accessibility/helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcysutton/reveal-a11y.git"
+  },
+  "keywords": [
+    "a11y",
+    "accessibility",
+    "reveal.js",
+    "slides"
+  ],
+  "author": "Marcy Sutton",
+  "contributors": [
+    "Marcy Sutton",
+    "Frederic Hemberger",
+    "Jens Lechtenbörger",
+    "Christian Frisson"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcysutton/reveal-a11y/issues"
+  },
+  "homepage": "https://github.com/marcysutton/reveal-a11y#readme"
+}
